@@ -1,5 +1,5 @@
 # Face Matching Comparison
-This project is a full-stack web application designed to compare the performance of different face recognition libraries—**DeepFace**, **InsightFace**, and **FaceAPI.js**—specifically in the context of real-time face matching with webcam input.
+This project is a full-stack web application designed to compare the performance of different face recognition libraries (**DeepFace**, **InsightFace**, and **FaceAPI.js**) specifically in the context of real-time face matching with webcam input.
 
 ## Overview
 
